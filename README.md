@@ -1,0 +1,2 @@
+# fkb
+fully kiosk browser
